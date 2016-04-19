@@ -388,6 +388,13 @@ button{
 }
 
 
+/* = Forms
+-------------------------------------------------------------- */
+
+.form-control{
+	border-color:rgba(0,0,0,.1);
+	box-shadow:none;
+}
 
 /* iFrame */
 
@@ -408,6 +415,9 @@ iframe{
 }
 .bgc-light-slate-gray{
 	background-color:#728F9C;
+}
+.bgc-gainsboro{
+	background-color:#D7DFE2;
 }
 /* Text colour styles */
 
